@@ -40,16 +40,11 @@ Também sou curioso por temas como **RPGs**, **animes e comics**, **literatura**
 
 ---
 
-### Cursos realizados 🤓
-
-
----
-
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/eduardo-santos-dev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-santos-dev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-santos-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/TheEddu">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEddu&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheEddu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
