@@ -39,12 +39,3 @@ Também sou curioso por temas como **RPGs**, **animes e comics**, **literatura**
 ![Laravel](https://img.shields.io/badge/laravel-%23777BB4.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
-
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/TheEddu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEddu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
